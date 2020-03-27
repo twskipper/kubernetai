@@ -5,7 +5,7 @@ import (
 	"github.com/coredns/coredns/coremain"
 	_ "github.com/coredns/coredns/core/plugin"
 
-	"github.com/coredns/kubernetai/plugin/kubernetai"
+	"github.com/twskipper/kubernetai/plugin/kubernetai"
 )
 
 func init() {
